@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+An initial snapshot is taken of all the files in the directory. You have to do it in order to establish a baseline.
