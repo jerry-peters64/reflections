@@ -1,2 +1,11 @@
 What happens when you initialize a repository? Why do you need to do it?
 An initial snapshot is taken of all the files in the directory. You have to do it in order to establish a baseline.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+The staging area contains uncommitted files.
+
+How can you use the staging area to make sure you have one commit per logical change?
+By comparing the satging area to the most recent commit
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Whne you want to try new things but keep the original intact
