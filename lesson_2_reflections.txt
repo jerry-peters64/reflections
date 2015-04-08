@@ -8,4 +8,7 @@ How can you use the staging area to make sure you have one commit per logical ch
 By comparing the satging area to the most recent commit
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
-Whne you want to try new things but keep the original intact
+When you want to try new things but keep the original intact
+
+How do the diagrams help you visualize the branch structure?
+SO you understand when it brances off.
