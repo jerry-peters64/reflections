@@ -12,3 +12,9 @@ When you want to try new things but keep the original intact
 
 How do the diagrams help you visualize the branch structure?
 SO you understand when it brances off.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Twp branches merged together result in one master branch with access to both commit histories.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Automatic keeps track of history for you.
