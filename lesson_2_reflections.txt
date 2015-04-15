@@ -18,3 +18,15 @@ Twp branches merged together result in one master branch with access to both com
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
 Automatic keeps track of history for you.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+Not sure why.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Forks only exist on GitHub. Clones make a cop of a repsitory and branches allow you to try different features out without affecting production code.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+Allows you to merge later but keep control locally.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Coordination and deconfliction would definitely be harder.
